@@ -1,8 +1,5 @@
 # The bat-o-matic
-by  
-Dr. Bryan Heidorn  
-Rafael Lopez  
-Bobby Hitz  
+by Dr. Bryan Heidorn, Rafael Lopez, and Bobby Hitz
 
 An Arduino based birdfeeder with various sensors and custom design.
 
