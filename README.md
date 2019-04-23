@@ -1,5 +1,6 @@
 # The bat-o-matic
 An Arduino based birdfeeder with various sensors and custom design.
+
 *by Dr. Bryan Heidorn, Rafael Lopez, and Bobby Hitz*
 
 
